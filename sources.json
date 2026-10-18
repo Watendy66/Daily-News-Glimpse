@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "feeds": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "note": "仅选择 AI 主题；优先研究、应用和行业影响，排除普通硬件促销"
+    },
+    {
+      "name": "科学网·人才高教",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?di=9"
+    },
+    {
+      "name": "教育部",
+      "url": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/",
+      "kind": "research-list",
+      "topic": "教育"
+    },
+    {
+      "name": "科学网",
+      "url": "https://www.sciencenet.cn/xml/news-0.aspx?news=0"
+    },
+    {
+      "name": "中科院心理所",
+      "url": "https://psych.cas.cn/news/kyjz/index.html",
+      "kind": "research-list"
+    },
+    {
+      "name": "Solidot 科技与科学",
+      "url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "name": "BBC 中文",
+      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "note": "仅选择 AI、教育、心理三类相关内容"
+    }
+  ]
+}

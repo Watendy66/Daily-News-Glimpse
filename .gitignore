@@ -1,0 +1,40 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.conda/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Packaging output
+build/
+dist/
+*.spec
+*.zip
+*.exe
+
+# Local application data, credentials and personal artwork
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+appearance.json
+sources.before-topics.json
+images/
+assets/background.*
+
+# Editor and OS files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
